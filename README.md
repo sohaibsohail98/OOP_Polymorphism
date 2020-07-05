@@ -1,0 +1,1 @@
+Polymorphism is incorporated within OOP with examples. Polymorphism - an object taking many forms 
